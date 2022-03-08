@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+}
+
+.result{
+  color: #fff;
+  font-size: 4rem;
+}
+
+button {
+  margin-top: 2rem;
+  width: 37%;
+  padding: 1rem 3rem;
+  color: #fff;
+  background: #f39821;
+  border: none;
+  border-radius: .5rem;
+}
